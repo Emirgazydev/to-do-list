@@ -1,0 +1,56 @@
+body {
+    background: rgba(17, 183, 122, 0.94);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+input {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+h6 {
+    color:  rgba(17, 183, 122, 0.94);
+    font-size: 25px;
+    margin-left: 16px;
+}
+button {
+    margin-left: 16px;
+}
+
+.logo {
+    border-radius: 10px;
+    padding: 5px;
+    color: aliceblue;
+    background: rgba(17, 183, 122, 0.94);
+}
+.div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h1 {
+    font-size: 20px;
+}
+li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.add-btn{
+    background: rgba(17, 183, 122, 0.94);
+}
+
+.text-bt {
+    border: 3px solid rgba(17, 183, 122, 0.94);
+}
+.text-input {
+    border: 3px solid rgba(17, 183, 122, 0.94);
+}
+
+.text-center{
+    color: rgba(17, 183, 122, 0.94);
+    font-size: 75px;
+    margin: 30px 0;
+}
